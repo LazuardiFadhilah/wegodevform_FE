@@ -7,6 +7,7 @@ export { default as Tutorial } from '../../components/Tutorial.vue'
 export { default as VuetifyLogo } from '../../components/VuetifyLogo.vue'
 export { default as QuestionCard } from '../../components/Question/Card.vue'
 export { default as QuestionDescription } from '../../components/Question/Description.vue'
+export { default as QuestionInput } from '../../components/Question/Input.vue'
 export { default as QuestionTitle } from '../../components/Question/Title.vue'
 
 // nuxt/nuxt.js#8607

@@ -26,6 +26,9 @@
   "QuestionDescription": {
     "description": "Auto imported from components/Question/Description.vue"
   },
+  "QuestionInput": {
+    "description": "Auto imported from components/Question/Input.vue"
+  },
   "QuestionTitle": {
     "description": "Auto imported from components/Question/Title.vue"
   }

@@ -15,4 +15,5 @@ You can directly use them in pages and other components without the need to impo
 - `<VuetifyLogo>` | `<vuetify-logo>` (components/VuetifyLogo.vue)
 - `<QuestionCard>` | `<question-card>` (components/Question/Card.vue)
 - `<QuestionDescription>` | `<question-description>` (components/Question/Description.vue)
+- `<QuestionInput>` | `<question-input>` (components/Question/Input.vue)
 - `<QuestionTitle>` | `<question-title>` (components/Question/Title.vue)
